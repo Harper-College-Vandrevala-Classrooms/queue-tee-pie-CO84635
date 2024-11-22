@@ -11,7 +11,7 @@ public class TestQueueTees {
 
   @BeforeEach
   void setUp() {
-    queue = new QueueTees();
+    
   }
 
   @Test
